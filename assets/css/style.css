@@ -26,3 +26,7 @@ body {
   .desafiocard {
     font-style: italic;
   }
+
+  .carousel-caption {
+    margin-bottom: 7em;
+  }
